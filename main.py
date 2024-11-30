@@ -36,3 +36,4 @@ while continue_yn == "yes":
     continue_yn = input("Type 'yes' if you want to go again, otherwise type 'no: ").lower()
     if continue_yn == "no: ":
         print("Thank you for playing!")
+        
